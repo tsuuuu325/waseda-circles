@@ -1,15 +1,11 @@
 import { getSiteUrl } from "../lib/site";
 import { prisma } from "../lib/prisma";
 
-export default async function sitemap() {
-  const baseUrl = getSiteUrl();
+export const dynamic = "force-dynamic";
+export const runtime = "nodejs";
 
-  const circles = await prisma.circle.findMany({
-    select: { id: true, createdAt: true },
-    orderBy: { id: "asc" },
-  });
-
-  const staticPages = [
+function getStaticPages(baseUrl) {
+  return [
     {
       url: baseUrl,
       lastModified: new Date(),
@@ -29,13 +25,28 @@ export default async function sitemap() {
       priority: 0.3,
     },
   ];
+}
 
-  const circlePages = circles.map((circle) => ({
-    url: `${baseUrl}/circle/${circle.id}`,
-    lastModified: circle.createdAt,
-    changeFrequency: "weekly",
-    priority: 0.8,
-  }));
+export default async function sitemap() {
+  const baseUrl = getSiteUrl();
+  const staticPages = getStaticPages(baseUrl);
 
-  return [...staticPages, ...circlePages];
+  try {
+    const circles = await prisma.circle.findMany({
+      select: { id: true, createdAt: true },
+      orderBy: { id: "asc" },
+    });
+
+    const circlePages = circles.map((circle) => ({
+      url: `${baseUrl}/circle/${circle.id}`,
+      lastModified: circle.createdAt,
+      changeFrequency: "weekly",
+      priority: 0.8,
+    }));
+
+    return [...staticPages, ...circlePages];
+  } catch (error) {
+    console.error("Failed to build sitemap from database:", error);
+    return staticPages;
+  }
 }
