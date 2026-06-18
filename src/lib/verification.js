@@ -1,5 +1,6 @@
 import { randomBytes } from "crypto";
 import { prisma } from "./prisma";
+import { SITE_NAME } from "./site";
 
 const TOKEN_HOURS = 24;
 
@@ -63,9 +64,9 @@ export async function sendVerificationEmail(email, token) {
       body: JSON.stringify({
         from: process.env.EMAIL_FROM || "onboarding@resend.dev",
         to: email,
-        subject: "【早稲田サークル口コミ】メールアドレスの確認",
+        subject: `【${SITE_NAME}】メールアドレスの確認`,
         html: `
-          <p>早稲田サークル口コミへの登録ありがとうございます。</p>
+          <p>${SITE_NAME}への登録ありがとうございます。</p>
           <p>以下のリンクをクリックして、メールアドレスを確認してください。</p>
           <p><a href="${verifyUrl}">${verifyUrl}</a></p>
           <p>リンクの有効期限は24時間です。</p>

@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { auth } from "../auth";
 import { logoutAction } from "../app/actions";
+import { SITE_NAME } from "../lib/site";
 
 export default async function Header() {
   const session = await auth();
@@ -8,7 +9,7 @@ export default async function Header() {
   return (
     <nav className="site-header">
       <Link href="/" className="site-logo">
-        早稲田サークル口コミ
+        {SITE_NAME}
       </Link>
       <div className="site-nav">
         {session?.user ? (

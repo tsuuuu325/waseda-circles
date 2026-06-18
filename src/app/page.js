@@ -1,5 +1,6 @@
 import CircleList from "../components/CircleList";
 import { getAllCircles } from "../lib/db";
+import { SITE_NAME } from "../lib/site";
 
 export default async function Home() {
   const circles = await getAllCircles();
@@ -7,7 +8,7 @@ export default async function Home() {
   return (
     <main className="page">
       <header className="header">
-        <h1>早稲田サークル口コミ</h1>
+        <h1>{SITE_NAME}</h1>
         <p>在学生の口コミで、サークル選びをサポート</p>
       </header>
 
