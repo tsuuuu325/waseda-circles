@@ -22,8 +22,8 @@ export async function registerAction(prevState, formData) {
     email: result.email,
   });
 
-  if (result.devLink) {
-    params.set("devLink", result.devLink);
+  if (result.verifyUrl) {
+    params.set("verifyUrl", result.verifyUrl);
   }
 
   redirect(`/register/sent?${params.toString()}`);
@@ -82,7 +82,7 @@ export async function resendVerificationAction(prevState, formData) {
 
   return {
     success: true,
-    devLink: emailResult.devLink || null,
+    verifyUrl: emailResult.verifyUrl || null,
   };
 }
 

@@ -96,6 +96,6 @@ export async function registerUser(email, name, password) {
   return {
     success: true,
     email: normalizedEmail,
-    devLink: emailResult.devLink || null,
+    verifyUrl: emailResult.verifyUrl || null,
   };
 }

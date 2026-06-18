@@ -2,7 +2,7 @@
 
 import { useActionState } from "react";
 
-const initialState = { error: "", success: false, devLink: "" };
+const initialState = { error: "", success: false, verifyUrl: "" };
 
 export default function ResendVerificationForm({ defaultEmail = "" }) {
   const [state, formAction, pending] = useActionState(
@@ -29,10 +29,10 @@ export default function ResendVerificationForm({ defaultEmail = "" }) {
 
       {state?.error ? <p className="form-error">{state.error}</p> : null}
       {state?.success ? <p className="form-note">確認メールを再送しました。</p> : null}
-      {state?.devLink ? (
+      {state?.verifyUrl ? (
         <p className="form-note">
-          開発モード：{" "}
-          <a href={state.devLink} className="back-link">
+          メールが届かない場合は{" "}
+          <a href={state.verifyUrl} className="back-link">
             認証リンクを開く
           </a>
         </p>

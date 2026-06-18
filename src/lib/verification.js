@@ -74,13 +74,17 @@ export async function sendVerificationEmail(email, token) {
     });
 
     if (!response.ok) {
-      console.error("Failed to send verification email", await response.text());
-      return { error: "確認メールの送信に失敗しました。時間をおいて再度お試しください。" };
+      const errorText = await response.text();
+      console.error("Failed to send verification email", errorText);
+      return {
+        error: "確認メールの送信に失敗しました。時間をおいて再度お試しください。",
+        verifyUrl,
+      };
     }
 
-    return { success: true };
+    return { success: true, verifyUrl };
   }
 
   console.log(`[開発用] メール認証リンク: ${verifyUrl}`);
-  return { success: true, devLink: verifyUrl };
+  return { success: true, verifyUrl };
 }

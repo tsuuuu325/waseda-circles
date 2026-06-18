@@ -4,7 +4,7 @@ import ResendVerificationForm from "../../../components/ResendVerificationForm";
 export default async function RegisterSentPage({ searchParams }) {
   const params = await searchParams;
   const email = params.email || "";
-  const devLink = params.devLink || "";
+  const verifyUrl = params.verifyUrl || params.devLink || "";
 
   return (
     <main className="page">
@@ -19,10 +19,10 @@ export default async function RegisterSentPage({ searchParams }) {
         <p>メール内のリンクを開くと登録が完了します。</p>
         <p className="form-note">1つのメールアドレスにつき、アカウントは1つだけ作成できます。</p>
 
-        {devLink ? (
+        {verifyUrl ? (
           <p className="form-note">
-            開発モード：メールが届かない場合は{" "}
-            <a href={devLink} className="back-link">
+            メールが届かない場合は{" "}
+            <a href={verifyUrl} className="back-link">
               この認証リンク
             </a>{" "}
             を開いてください。
