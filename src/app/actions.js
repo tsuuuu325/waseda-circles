@@ -26,6 +26,10 @@ export async function registerAction(prevState, formData) {
     params.set("verifyUrl", result.verifyUrl);
   }
 
+  if (result.emailFailed) {
+    params.set("emailFailed", "1");
+  }
+
   redirect(`/register/sent?${params.toString()}`);
 }
 
@@ -76,13 +80,14 @@ export async function resendVerificationAction(prevState, formData) {
   const token = await createVerificationToken(user.id);
   const emailResult = await sendVerificationEmail(email, token);
 
-  if (emailResult.error) {
-    return { error: emailResult.error };
+  if (!emailResult.success || !emailResult.verifyUrl) {
+    return { error: "確認メールの再送に失敗しました。" };
   }
 
   return {
     success: true,
-    verifyUrl: emailResult.verifyUrl || null,
+    verifyUrl: emailResult.verifyUrl,
+    emailFailed: emailResult.emailFailed || false,
   };
 }
 

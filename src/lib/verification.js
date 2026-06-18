@@ -77,8 +77,9 @@ export async function sendVerificationEmail(email, token) {
       const errorText = await response.text();
       console.error("Failed to send verification email", errorText);
       return {
-        error: "確認メールの送信に失敗しました。時間をおいて再度お試しください。",
+        success: true,
         verifyUrl,
+        emailFailed: true,
       };
     }
 

@@ -88,14 +88,15 @@ export async function registerUser(email, name, password) {
   const token = await createVerificationToken(user.id);
   const emailResult = await sendVerificationEmail(normalizedEmail, token);
 
-  if (emailResult.error) {
+  if (!emailResult.success || !emailResult.verifyUrl) {
     await prisma.user.delete({ where: { id: user.id } });
-    return { error: emailResult.error };
+    return { error: "登録に失敗しました。時間をおいて再度お試しください。" };
   }
 
   return {
     success: true,
     email: normalizedEmail,
-    verifyUrl: emailResult.verifyUrl || null,
+    verifyUrl: emailResult.verifyUrl,
+    emailFailed: emailResult.emailFailed || false,
   };
 }
