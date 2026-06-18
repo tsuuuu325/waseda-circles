@@ -11,7 +11,8 @@
     "db:migrate": "prisma migrate dev",
     "db:seed": "prisma db seed",
     "db:setup": "prisma migrate dev && prisma db seed",
-    "db:setup:turso": "node scripts/setup-turso-db.js"
+    "db:setup:turso": "node scripts/setup-turso-db.js",
+    "db:clear:turso": "node scripts/clear-production-data.js"
   },
   "dependencies": {
     "@libsql/client": "^0.8.1",
