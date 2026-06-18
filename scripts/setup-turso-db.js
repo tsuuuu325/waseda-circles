@@ -5,9 +5,9 @@ const { createClient } = require("@libsql/client");
 const url = process.env.DATABASE_URL || "";
 const authToken = process.env.TURSO_AUTH_TOKEN || "";
 
-if (!url.startsWith("libsql://")) {
-  console.error("DATABASE_URL が libsql:// で始まっていません。");
-  console.error("Turso の URL を設定してから再実行してください。");
+if (!url.startsWith("libsql://") && !url.startsWith("libsqls://") && !url.includes(".turso.io")) {
+  console.error("DATABASE_URL が Turso の URL ではありません。");
+  console.error("libsql:// または https://....turso.io の URL を設定してください。");
   process.exit(1);
 }
 

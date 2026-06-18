@@ -3,7 +3,15 @@ const { PrismaClient } = require("@prisma/client");
 function createPrismaClient() {
   const url = process.env.DATABASE_URL || "";
 
-  if (url.startsWith("libsql://")) {
+  if (
+    url.startsWith("libsql://") ||
+    url.startsWith("libsqls://") ||
+    url.includes(".turso.io")
+  ) {
+    if (!process.env.TURSO_AUTH_TOKEN) {
+      throw new Error("TURSO_AUTH_TOKEN が設定されていません。");
+    }
+
     const { PrismaLibSQL } = require("@prisma/adapter-libsql");
     const adapter = new PrismaLibSQL({
       url: process.env.DATABASE_URL,
