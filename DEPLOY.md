@@ -49,9 +49,10 @@
 ```powershell
 $env:DATABASE_URL="（Tursoのlibsql URL）"
 $env:TURSO_AUTH_TOKEN="（TursoのAuth Token）"
-npx prisma migrate deploy
-npx prisma db seed
+npm run db:setup:turso
 ```
+
+※ Turso では `npx prisma migrate deploy` が使えないことがあるため、上のコマンド1つでテーブル作成＋初期データ投入を行います。
 
 ---
 
@@ -71,7 +72,6 @@ npm run dev:clean
 
 | ルール | 内容 |
 |--------|------|
-| 早稲田メールのみ | `@waseda.jp` など |
 | 1メール1アカウント | 同じメールで再登録不可 |
 | メール認証必須 | リンクを開くまでログイン不可 |
 | 1人1口コミ | 同じサークルに2件投稿不可 |

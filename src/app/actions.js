@@ -4,7 +4,7 @@ import { redirect } from "next/navigation";
 import { revalidatePath } from "next/cache";
 import { auth, registerUser, signIn, signOut } from "../auth";
 import { prisma } from "../lib/prisma";
-import { isWasedaEmail, normalizeEmail } from "../lib/validators";
+import { isValidEmail, normalizeEmail } from "../lib/validators";
 import { createVerificationToken, sendVerificationEmail, verifyEmailToken } from "../lib/verification";
 
 export async function registerAction(prevState, formData) {
@@ -33,8 +33,8 @@ export async function loginAction(prevState, formData) {
   const email = normalizeEmail(String(formData.get("email") || ""));
   const password = String(formData.get("password") || "");
 
-  if (!isWasedaEmail(email)) {
-    return { error: "早稲田大学のメールアドレスでログインしてください。" };
+  if (!isValidEmail(email)) {
+    return { error: "有効なメールアドレスを入力してください。" };
   }
 
   const user = await prisma.user.findUnique({ where: { email } });
@@ -59,8 +59,8 @@ export async function loginAction(prevState, formData) {
 export async function resendVerificationAction(prevState, formData) {
   const email = normalizeEmail(String(formData.get("email") || ""));
 
-  if (!isWasedaEmail(email)) {
-    return { error: "早稲田大学のメールアドレスを入力してください。" };
+  if (!isValidEmail(email)) {
+    return { error: "有効なメールアドレスを入力してください。" };
   }
 
   const user = await prisma.user.findUnique({ where: { email } });

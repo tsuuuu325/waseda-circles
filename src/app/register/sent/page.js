@@ -17,7 +17,7 @@ export default async function RegisterSentPage({ searchParams }) {
 
       <div className="auth-prompt">
         <p>メール内のリンクを開くと登録が完了します。</p>
-        <p className="form-note">1つの早稲田メールアドレスにつき、アカウントは1つだけ作成できます。</p>
+        <p className="form-note">1つのメールアドレスにつき、アカウントは1つだけ作成できます。</p>
 
         {devLink ? (
           <p className="form-note">

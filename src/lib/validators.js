@@ -1,7 +1,6 @@
-const WASeda_EMAIL_PATTERN = /@(f\.)?waseda\.jp$|@my\.waseda\.jp$/i;
-
-export function isWasedaEmail(email) {
-  return WASeda_EMAIL_PATTERN.test(email.trim());
+export function isValidEmail(email) {
+  const normalized = email.trim();
+  return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(normalized);
 }
 
 export function normalizeEmail(email) {

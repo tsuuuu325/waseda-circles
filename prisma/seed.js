@@ -1,6 +1,21 @@
 const { PrismaClient } = require("@prisma/client");
 
-const prisma = new PrismaClient();
+function createPrismaClient() {
+  const url = process.env.DATABASE_URL || "";
+
+  if (url.startsWith("libsql://")) {
+    const { PrismaLibSQL } = require("@prisma/adapter-libsql");
+    const adapter = new PrismaLibSQL({
+      url: process.env.DATABASE_URL,
+      authToken: process.env.TURSO_AUTH_TOKEN,
+    });
+    return new PrismaClient({ adapter });
+  }
+
+  return new PrismaClient();
+}
+
+const prisma = createPrismaClient();
 
 const circles = [
   {

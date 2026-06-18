@@ -12,14 +12,14 @@ export default function LoginForm() {
   return (
     <form className="review-form auth-form" action={formAction}>
       <label className="form-label" htmlFor="email">
-        早稲田メールアドレス
+        メールアドレス
       </label>
       <input
         id="email"
         name="email"
         type="email"
         className="form-input"
-        placeholder="example@waseda.jp"
+        placeholder="example@example.com"
         required
       />
 

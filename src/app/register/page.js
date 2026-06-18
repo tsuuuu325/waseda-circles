@@ -5,7 +5,7 @@ export default function RegisterPage() {
     <main className="page">
       <header className="header">
         <h1>新規登録</h1>
-        <p>@waseda.jp などの早稲田メールアドレスのみ登録できます</p>
+        <p>メールアドレスでアカウントを作成できます</p>
       </header>
       <RegisterForm />
     </main>

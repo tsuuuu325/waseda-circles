@@ -3,7 +3,7 @@ import Credentials from "next-auth/providers/credentials";
 import bcrypt from "bcryptjs";
 import { authConfig } from "./auth.config";
 import { prisma } from "./lib/prisma";
-import { isWasedaEmail, normalizeEmail } from "./lib/validators";
+import { isValidEmail, normalizeEmail } from "./lib/validators";
 import { createVerificationToken, sendVerificationEmail } from "./lib/verification";
 
 export const { handlers, signIn, signOut, auth } = NextAuth({
@@ -53,8 +53,8 @@ export async function registerUser(email, name, password) {
   const normalizedEmail = normalizeEmail(email);
   const trimmedName = name.trim();
 
-  if (!isWasedaEmail(normalizedEmail)) {
-    return { error: "早稲田大学のメールアドレス（@waseda.jp など）のみ登録できます。" };
+  if (!isValidEmail(normalizedEmail)) {
+    return { error: "有効なメールアドレスを入力してください。" };
   }
 
   if (!trimmedName) {

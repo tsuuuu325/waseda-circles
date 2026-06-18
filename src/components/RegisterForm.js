@@ -12,14 +12,14 @@ export default function RegisterForm() {
   return (
     <form className="review-form auth-form" action={formAction}>
       <label className="form-label" htmlFor="email">
-        早稲田メールアドレス
+        メールアドレス
       </label>
       <input
         id="email"
         name="email"
         type="email"
         className="form-input"
-        placeholder="example@waseda.jp"
+        placeholder="example@example.com"
         required
       />
 
@@ -54,7 +54,7 @@ export default function RegisterForm() {
       </button>
 
       <p className="form-note">
-        登録後、早稲田メール宛に確認リンクが届きます。1メール1アカウントです。
+        登録後、確認メールが届きます。1メール1アカウントです。
       </p>
       <p className="form-note">
         すでにアカウントがある方は <Link href="/login">ログイン</Link>
