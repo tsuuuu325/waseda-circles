@@ -1,0 +1,53 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id                 String              @id @default(cuid())
+  email              String              @unique
+  name               String
+  password           String
+  emailVerified      DateTime?
+  createdAt          DateTime            @default(now())
+  reviews            Review[]
+  circles            Circle[]
+  verificationTokens VerificationToken[]
+}
+
+model VerificationToken {
+  id        String   @id @default(cuid())
+  token     String   @unique
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  expiresAt DateTime
+  createdAt DateTime @default(now())
+}
+
+model Circle {
+  id          Int      @id @default(autoincrement())
+  name        String
+  category    String
+  description String
+  createdById String?
+  createdBy   User?    @relation(fields: [createdById], references: [id], onDelete: SetNull)
+  reviews     Review[]
+  createdAt   DateTime @default(now())
+}
+
+model Review {
+  id        Int      @id @default(autoincrement())
+  circleId  Int
+  circle    Circle   @relation(fields: [circleId], references: [id], onDelete: Cascade)
+  userId    String?
+  user      User?    @relation(fields: [userId], references: [id], onDelete: SetNull)
+  rating    Int
+  text      String
+  createdAt DateTime @default(now())
+
+  @@unique([circleId, userId])
+}

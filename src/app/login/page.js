@@ -1,0 +1,13 @@
+import LoginForm from "../../components/LoginForm";
+
+export default function LoginPage() {
+  return (
+    <main className="page">
+      <header className="header">
+        <h1>ログイン</h1>
+        <p>早稲田大学のメールアドレスでログインしてください</p>
+      </header>
+      <LoginForm />
+    </main>
+  );
+}
