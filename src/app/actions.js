@@ -166,3 +166,40 @@ export async function createCircle(prevState, formData) {
 
   return { success: true, circleId: circle.id };
 }
+
+const ALLOWED_CATEGORIES = ["体育系", "文化系", "その他"];
+
+export async function updateCircle(circleId, category, description) {
+  const session = await auth();
+
+  if (!session?.user?.id) {
+    return { error: "サークル情報を編集するにはログインが必要です。" };
+  }
+
+  const id = Number(circleId);
+  const normalizedCategory = String(category || "").trim();
+  const normalizedDescription = String(description || "").trim();
+
+  if (!id || !normalizedDescription || !ALLOWED_CATEGORIES.includes(normalizedCategory)) {
+    return { error: "すべての項目を正しく入力してください。" };
+  }
+
+  const circle = await prisma.circle.findUnique({ where: { id } });
+
+  if (!circle) {
+    return { error: "サークルが見つかりませんでした。" };
+  }
+
+  await prisma.circle.update({
+    where: { id },
+    data: {
+      category: normalizedCategory,
+      description: normalizedDescription,
+    },
+  });
+
+  revalidatePath(`/circle/${id}`);
+  revalidatePath("/");
+
+  return { success: true };
+}

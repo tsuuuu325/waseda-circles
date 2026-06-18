@@ -1,11 +1,11 @@
 import { prisma } from "./prisma";
 
+import { getAverageRating, getRatingBreakdown } from "./ratings";
+
 function withStats(circle) {
   const reviewCount = circle.reviews.length;
-  const rating =
-    reviewCount === 0
-      ? 0
-      : circle.reviews.reduce((sum, review) => sum + review.rating, 0) / reviewCount;
+  const rating = getAverageRating(circle.reviews);
+  const ratingBreakdown = getRatingBreakdown(circle.reviews);
 
   return {
     id: circle.id,
@@ -14,6 +14,7 @@ function withStats(circle) {
     description: circle.description,
     rating,
     reviewCount,
+    ratingBreakdown,
   };
 }
 

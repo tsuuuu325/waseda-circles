@@ -12,7 +12,11 @@
     "db:seed": "prisma db seed",
     "db:setup": "prisma migrate dev && prisma db seed",
     "db:setup:turso": "node scripts/setup-turso-db.js",
-    "db:clear:turso": "node scripts/clear-production-data.js"
+    "db:clear:turso": "node scripts/clear-production-data.js",
+    "db:parse:circles": "node scripts/parse-official-circles.js",
+    "db:import:circles": "node scripts/import-official-circles.js",
+    "db:import:circles:local": "node scripts/import-official-circles-local.js",
+    "db:check": "node scripts/check-db.js"
   },
   "dependencies": {
     "@libsql/client": "^0.8.1",

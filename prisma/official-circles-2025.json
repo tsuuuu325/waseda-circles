@@ -1,0 +1,3823 @@
+{
+  "source": "https://www.waseda.jp/inst/student/assets/uploads/2025/06/officialcircle_list_20250617.pdf",
+  "updatedAt": "2025-06-17",
+  "total": 477,
+  "circles": [
+    {
+      "code": "A-001",
+      "name": "ザ・ワセダ・ガーディアン",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3042",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-002",
+      "name": "早稲田スポーツ新聞会",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3043",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-003",
+      "name": "国際学生友好会(WIC)",
+      "category": "その他",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3044",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-004",
+      "name": "思惟の森の会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3045",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-005",
+      "name": "早稲田精神昂揚会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3046",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-006",
+      "name": "早慶戦支援会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3047",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-007",
+      "name": "国際交流虹の会",
+      "category": "その他",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3048",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-008",
+      "name": "現代思想研究会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3049",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-010",
+      "name": "佛教青年会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3051",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-011",
+      "name": "キリスト者学生会(K.G.K.)",
+      "category": "その他",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3052",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-013",
+      "name": "考古学研究会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3054",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-014",
+      "name": "エジプト文化研究会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3055",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-017",
+      "name": "中南米研究会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3058",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-018",
+      "name": "戦争・貧困・環境を考える会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3059",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-020",
+      "name": "国際問題研究会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3061",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-021",
+      "name": "政治経済攻究会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3062",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-022",
+      "name": "雄弁会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3063",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-023",
+      "name": "國策研究會",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3064",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-024",
+      "name": "政友会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3065",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-025",
+      "name": "経済学会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3066",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-027",
+      "name": "マーケティング研究会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3068",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-028",
+      "name": "経営情報学会(MISW)",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3069",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-031",
+      "name": "ローバース",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3072",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-033",
+      "name": "鵬志会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3074",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-034",
+      "name": "新宿子ども会 KIDS",
+      "category": "その他",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3075",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-035",
+      "name": "手話さあくる",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3076",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-037",
+      "name": "早稲田大学広域BBS会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3078",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-038",
+      "name": "青空子ども会Ⅱ",
+      "category": "その他",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3079",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-039",
+      "name": "生物同好会",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3080",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-040",
+      "name": "天文同好会",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3081",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-041",
+      "name": "繊維研究会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3082",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-042",
+      "name": "アナウンス研究会（WAK)",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3083",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-043",
+      "name": "広告研究会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3084",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-046",
+      "name": "放送研究会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3087",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-047",
+      "name": "鉄道研究会(WRC)",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3088",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-048",
+      "name": "ＦＭ waseda",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3089",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-049",
+      "name": "写真部",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3090",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-050",
+      "name": "書道会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3091",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-051",
+      "name": "美術研究創作会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3092",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-052",
+      "name": "漫画研究会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3093",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-053",
+      "name": "古美術研究会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3094",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-054",
+      "name": "名所古蹟研究会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3095",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-055",
+      "name": "絵画会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3096",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-056",
+      "name": "古寺仏研究会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3097",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-057",
+      "name": "陶芸部 稲穂窯",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3098",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-059",
+      "name": "ギタークラブ",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3100",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-060",
+      "name": "交響楽団",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3101",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-061",
+      "name": "ザ・ナレオ",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3102",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-062",
+      "name": "ハーモニカ・ソサィアティ",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3103",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-063",
+      "name": "マンドリン楽部",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3104",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-064",
+      "name": "オルケスタ・デ・タンゴ・ワセダ",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3105",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-065",
+      "name": "ギターソサエティー",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3106",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-066",
+      "name": "早稲田大学ニューオルリンズジャズクラブ",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3107",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-067",
+      "name": "モダンジャズ研究会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3108",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-069",
+      "name": "アンサンブル・リドール",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3110",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-070",
+      "name": "ラテン・アメリカ協会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3111",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-071",
+      "name": "早稲田大学フィルハーモニー管絃楽団",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3112",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-072",
+      "name": "ショパンの会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3113",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-073",
+      "name": "フュージョンマニア",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3114",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-074",
+      "name": "エレクトーンサークル AUGMENT",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3115",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-075",
+      "name": "琵琶サークル 琵沙門",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3116",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-076",
+      "name": "律ゾリステン",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3117",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-077",
+      "name": "早稲田ビートルマニア",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3118",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-078",
+      "name": "クラシック弦楽合奏団",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3119",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-079",
+      "name": "早大ピアノの会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3120",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-080",
+      "name": "合唱団",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3121",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-081",
+      "name": "グリークラブ",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3122",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-082",
+      "name": "コール・フリューゲル",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3123",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-083",
+      "name": "混声合唱団",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3124",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-085",
+      "name": "Street Corner Symphony",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3126",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-086",
+      "name": "シャンソン研究会（シャン研）",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3127",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-087",
+      "name": "音楽サークル 星空",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3128",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-088",
+      "name": "Choco Crunch",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3129",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-089",
+      "name": "観世会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3130",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-090",
+      "name": "狂言研究会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3131",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-091",
+      "name": "虚竹会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3132",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-092",
+      "name": "金春会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3133",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-094",
+      "name": "竹友会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3135",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-095",
+      "name": "稲吟会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3136",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-096",
+      "name": "長唄研究会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3137",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-097",
+      "name": "映画研究会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3138",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-098",
+      "name": "演劇研究会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3139",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-099",
+      "name": "歌舞伎研究会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3140",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-100",
+      "name": "劇団「こだま」",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3141",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-101",
+      "name": "稲門シナリオ研究会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3142",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-102",
+      "name": "舞台美術研究会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3143",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-103",
+      "name": "演劇倶楽部",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3144",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-104",
+      "name": "アニメーション同好会 (WALT)",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3145",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-105",
+      "name": "（劇団）てあとろ５０’",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3146",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-106",
+      "name": "アニメーション研究会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3147",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-107",
+      "name": "怪獣同盟",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3148",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-108",
+      "name": "生花研究会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3149",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-109",
+      "name": "囲碁会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3150",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-110",
+      "name": "茶道研究会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3151",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-111",
+      "name": "かるた会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3152",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-112",
+      "name": "将棋部",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3153",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-114",
+      "name": "マジッククラブ",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3155",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-115",
+      "name": "落語研究会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3156",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-116",
+      "name": "少女マンガ研究会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3157",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-117",
+      "name": "パントマイム 舞☆夢☆踏 (ﾏｲﾑﾄｳ)",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3158",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-118",
+      "name": "津軽三味線愛好会 三津巴",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3159",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-120",
+      "name": "早稲田大学宝塚歌劇を愛する会 (早宝会)",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3161",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-121",
+      "name": "軟式野球部",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3162",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-122",
+      "name": "早稲田大学GWラグビークラブ",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3163",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-123",
+      "name": "卓球同好会(WTTS)",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3164",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-124",
+      "name": "バドミントン同好会",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3165",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-125",
+      "name": "バレーボール同好会",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3166",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-126",
+      "name": "ボウリングクラブ",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3167",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-127",
+      "name": "ポーラーベアーズアイスホッケークラブ",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3168",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-128",
+      "name": "ワイヴァーンズ クリケットクラブ",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3169",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-130",
+      "name": "ちょこLet's",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3171",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-131",
+      "name": "米式蹴球倶楽部 レブルス",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3172",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-132",
+      "name": "歩行会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3173",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-133",
+      "name": "オリエンテーリングクラブ",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3174",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-134",
+      "name": "岳文会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3175",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-135",
+      "name": "サイクリングクラブ",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3176",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-136",
+      "name": "山岳アルコウ会",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3177",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-137",
+      "name": "世界旅行研究会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3178",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-138",
+      "name": "旅の会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3179",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-139",
+      "name": "探検部",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3180",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-140",
+      "name": "なべの会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3181",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-141",
+      "name": "山の会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3182",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-143",
+      "name": "山小屋研究会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3184",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-144",
+      "name": "登歩の会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3185",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-145",
+      "name": "ワンダーサイクリング同好会",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3186",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-146",
+      "name": "合気道会",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3187",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-147",
+      "name": "空手道誠心会",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3188",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-148",
+      "name": "剣道同好会",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3189",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-149",
+      "name": "スポーツ合気道クラブ",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3190",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-150",
+      "name": "早稲田ITFテコンドークラブ",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3191",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-152",
+      "name": "釣の会",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3193",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-153",
+      "name": "トランポリン同好会（A-153）",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3194",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-154",
+      "name": "早大バーベルクラブ",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3195",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-155",
+      "name": "競技ダンス部（WBDC)",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3196",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-156",
+      "name": "トライアスロンチームノースウエスト",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3197",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-157",
+      "name": "プロ野球ファンサークル セレクト",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3198",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-158",
+      "name": "スガ・スキークラブ",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3199",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-159",
+      "name": "陸上競技同好会",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3200",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-160",
+      "name": "アルティメット部",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3201",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-161",
+      "name": "ネージュ・スキークラブ",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3202",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-165",
+      "name": "スペイン語研究会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3206",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-166",
+      "name": "邦文速記研究会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3207",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-167",
+      "name": "英語部 (WESA)",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3208",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-168",
+      "name": "早稲田大学現代文学会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3209",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-169",
+      "name": "詩人会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3210",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-170",
+      "name": "児童文化研究会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3211",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-171",
+      "name": "早稲田文芸会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3212",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-172",
+      "name": "短歌会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3213",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-176",
+      "name": "ワセダミステリ・クラブ",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3217",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-177",
+      "name": "児童文学研究会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3218",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-178",
+      "name": "早稲田大学軟式庭球同好会",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3391",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-179",
+      "name": "環境ロドリゲス",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3268",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-180",
+      "name": "珠算部",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3290",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-181",
+      "name": "Yes,We Are",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3306",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-182",
+      "name": "ハング・パラグライダークラブ",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3479",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-183",
+      "name": "シネマプロダクション（シネプロ)",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3347",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-184",
+      "name": "早稲田大学居合道部",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3436",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-185",
+      "name": "オリジナルソング研究会 オールウェイズ",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3314",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-186",
+      "name": "早稲田大学戦史研究会",
+      "category": "文化系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3258",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-187",
+      "name": "早稲田大学フィンスイミングチーム SIX BEAT",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3471",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "A-188",
+      "name": "早稲田大学水上スキー部",
+      "category": "体育系",
+      "orgType": "学生の会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3481",
+      "description": "早稲田大学2025年度公認サークル（学生の会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "B-000",
+      "name": "全国早稲田学生会連盟",
+      "category": "その他",
+      "orgType": "学生稲門会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3219",
+      "description": "早稲田大学2025年度公認サークル（学生稲門会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "B-001",
+      "name": "北海道学生稲門会",
+      "category": "その他",
+      "orgType": "学生稲門会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3730",
+      "description": "早稲田大学2025年度公認サークル（学生稲門会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "B-012",
+      "name": "群馬学生稲門会",
+      "category": "その他",
+      "orgType": "学生稲門会",
+      "guideUrl": null,
+      "description": "早稲田大学2025年度公認サークル（学生稲門会）。公認サークルガイドは準備中です。"
+    },
+    {
+      "code": "B-016",
+      "name": "山梨学生稲門会",
+      "category": "その他",
+      "orgType": "学生稲門会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3225",
+      "description": "早稲田大学2025年度公認サークル（学生稲門会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "B-031",
+      "name": "鳥取学生稲門会",
+      "category": "その他",
+      "orgType": "学生稲門会",
+      "guideUrl": null,
+      "description": "早稲田大学2025年度公認サークル（学生稲門会）。公認サークルガイドは準備中です。"
+    },
+    {
+      "code": "B-034",
+      "name": "和歌山学生稲門会",
+      "category": "その他",
+      "orgType": "学生稲門会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3764",
+      "description": "早稲田大学2025年度公認サークル（学生稲門会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "B-036",
+      "name": "山口学生稲門会",
+      "category": "その他",
+      "orgType": "学生稲門会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3234",
+      "description": "早稲田大学2025年度公認サークル（学生稲門会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "B-040",
+      "name": "福岡学生稲門会",
+      "category": "その他",
+      "orgType": "学生稲門会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3763",
+      "description": "早稲田大学2025年度公認サークル（学生稲門会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "B-043",
+      "name": "長崎学生稲門会",
+      "category": "その他",
+      "orgType": "学生稲門会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3237",
+      "description": "早稲田大学2025年度公認サークル（学生稲門会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "B-045",
+      "name": "熊本学生稲門会",
+      "category": "その他",
+      "orgType": "学生稲門会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3238",
+      "description": "早稲田大学2025年度公認サークル（学生稲門会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "B-049",
+      "name": "関西学生稲門会",
+      "category": "その他",
+      "orgType": "学生稲門会",
+      "guideUrl": null,
+      "description": "早稲田大学2025年度公認サークル（学生稲門会）。公認サークルガイドは準備中です。"
+    },
+    {
+      "code": "B-051",
+      "name": "岡山学生稲門会",
+      "category": "その他",
+      "orgType": "学生稲門会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3710",
+      "description": "早稲田大学2025年度公認サークル（学生稲門会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "B-053",
+      "name": "佐賀学生稲門会",
+      "category": "その他",
+      "orgType": "学生稲門会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3719",
+      "description": "早稲田大学2025年度公認サークル（学生稲門会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "B-054",
+      "name": "鹿児島学生稲門会",
+      "category": "その他",
+      "orgType": "学生稲門会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3720",
+      "description": "早稲田大学2025年度公認サークル（学生稲門会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-001",
+      "name": "早稲田大学マスコミ研究会",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3641",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-003",
+      "name": "出版甲子園実行委員会",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3245",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-004",
+      "name": "出版団体 ENJI",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3246",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-007",
+      "name": "教育・教職サークルT-team(T-team)",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3249",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-010",
+      "name": "東洋思想研究会(東思研)",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3252",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-012",
+      "name": "早稲田大学済蔭団",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3728",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-013",
+      "name": "史学舎",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3255",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-014",
+      "name": "歴史文化研究会",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3256",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-015",
+      "name": "地理学研究会",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3257",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-018",
+      "name": "早稲田大学バンザイ同盟",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3260",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-019",
+      "name": "早稲田大学株式投資サークルForward",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3751",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-022",
+      "name": "人物研究会",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3264",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-024",
+      "name": "ひまわり子ども会",
+      "category": "その他",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3266",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-025",
+      "name": "早稲田リンクス",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3267",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-027",
+      "name": "池袋子ども会",
+      "category": "その他",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3269",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-028",
+      "name": "まっちワークグループ早稲田",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3270",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-029",
+      "name": "GLOW",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3271",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-030",
+      "name": "地域猫の会（わせねこ）",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3272",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-032",
+      "name": "まつりスタッフ",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3274",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-033",
+      "name": "哲学・批評研究会",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3275",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-034",
+      "name": "資格ゲッターズ",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3276",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-035",
+      "name": "学食研究会",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3277",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-036",
+      "name": "早稲田イルミネーションプロジェクト実行委員会",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3278",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-038",
+      "name": "わせプロ",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3280",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-039",
+      "name": "Waseda Association of Debaters",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3281",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-040",
+      "name": "Walkin'",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3282",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-042",
+      "name": "早稲田大学韓国人学生会",
+      "category": "その他",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3769",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-043",
+      "name": "学生 NGO EST",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3788",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-045",
+      "name": "早稲田大学POST",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3287",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-046",
+      "name": "化石鉱物研究会(化鉱研)",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3288",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-047",
+      "name": "コンピュータ研究会・WINC",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3289",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-049",
+      "name": "早稲田大学ＲＯＢＯＳＴＥＰ",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3291",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-050",
+      "name": "企画集団 便利舎",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3292",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-051",
+      "name": "ＵＢＣ",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3293",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-053",
+      "name": "Wａｓｅｄａ Ｍｕｓｉｃ Ｒｅｃｏｒｄｓ",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3295",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-054",
+      "name": "ART OFFICE",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3296",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-057",
+      "name": "Music and Communication くされエン",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3299",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-058",
+      "name": "New Music Club (NMC)",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3300",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-059",
+      "name": "フリーウェイミュージック",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3301",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-060",
+      "name": "Music & Movie Gatherin' (MMG)",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3302",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-061",
+      "name": "ミュージックファンクラブ (MFC)",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3303",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-062",
+      "name": "Modern Music Troop (MMT)",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3304",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-063",
+      "name": "早稲田 Music Inn",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": null,
+      "description": "早稲田大学2025年度公認サークル（同好会）。公認サークルガイドは準備中です。"
+    },
+    {
+      "code": "C-066",
+      "name": "BRITISH BEAT CLUB",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3308",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-067",
+      "name": "Waseda Folksong Society（WFS)",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3309",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-068",
+      "name": "魁響(さきがけひびき)",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3310",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-069",
+      "name": "ROCK STEADY WASEDA",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3311",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-071",
+      "name": "ヨコシマ。",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3313",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-073",
+      "name": "口笛サークル ことリップ",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3315",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-074",
+      "name": "下掛宝生会",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3316",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-076",
+      "name": "早稲田大学宝生会",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3789",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-077",
+      "name": "オムニバス",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3319",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-078",
+      "name": "幸福デジャヴ",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3320",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-079",
+      "name": "（劇団）くるめるシアター",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3321",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-080",
+      "name": "（劇団）コンツェルト",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3322",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-082",
+      "name": "（劇団）森",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3324",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-086",
+      "name": "（劇団）へちま",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3328",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-087",
+      "name": "（劇団）桃源郷行きたい",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": null,
+      "description": "早稲田大学2025年度公認サークル（同好会）。公認サークルガイドは準備中です。"
+    },
+    {
+      "code": "C-088",
+      "name": "（劇団）虚仮華紙",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3330",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-089",
+      "name": "（劇団）SWANDIVE",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3331",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-090",
+      "name": "鶴の一声",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3332",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-091",
+      "name": "生粋工房",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3333",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-092",
+      "name": "ＰＯＰ３",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3334",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-093",
+      "name": "システマ・アンジェリカ",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3335",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-094",
+      "name": "カリフォルニアロール（CFロール）",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3336",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-095",
+      "name": "SEIREN",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3337",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-096",
+      "name": "イイムラR",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3338",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-097",
+      "name": "WAM",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3339",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-098",
+      "name": "あかなし",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3340",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-099",
+      "name": "劇団24区",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3341",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-101",
+      "name": "CINEMAX SIDEVARG",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3343",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-102",
+      "name": "映像製作集団 浪人街",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3344",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-103",
+      "name": "早稲田大学アニメ声優会",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3345",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-104",
+      "name": "シネサイクル 叛頭脳",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3346",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-106",
+      "name": "映画制作グループ☆ひぐらし",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": null,
+      "description": "早稲田大学2025年度公認サークル（同好会）。公認サークルガイドは準備中です。"
+    },
+    {
+      "code": "C-108",
+      "name": "わかものきもの会",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3350",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-109",
+      "name": "クイズ研究会（W.Q.S.S)",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3351",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-110",
+      "name": "ﾃｰﾌﾞﾙﾄｰｸRPGｻｰｸﾙ 乾坤堂",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3352",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-111",
+      "name": "早稲田寄席演芸研究会",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3353",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-112",
+      "name": "シミュレーションゲーム研究会",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3354",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-113",
+      "name": "写団シャレード",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3355",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-114",
+      "name": "お笑い工房 LUDO",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3356",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-116",
+      "name": "いじけっ子マンガ集団",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3358",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-117",
+      "name": "珈琲研究会",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3359",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-118",
+      "name": "踊り侍",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3360",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-121",
+      "name": "早稲田大学よさこいチーム東京花火",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3363",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-122",
+      "name": "SHOCKERS",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3364",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-123",
+      "name": "早稲田大学ドラえもん研究会",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3365",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-124",
+      "name": "早稲田大学ガンダム研究会",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3366",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-128",
+      "name": "早稲田大学ディズニー研究会",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3370",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-130",
+      "name": "オーストラリアンテニスクラブ",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3372",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-131",
+      "name": "オレンジテニスクラブ",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3642",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-134",
+      "name": "城北テニスクラブ",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3758",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-136",
+      "name": "Truthテニスクラブ",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3378",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-138",
+      "name": "稲友テニスクラブ",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3380",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-139",
+      "name": "早大フォーティラブ",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3381",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-142",
+      "name": "ヤング庭球同好会（硬式部）",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3384",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-143",
+      "name": "ヤングテニス同好会（軟式部）",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3385",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-144",
+      "name": "グリーンテニスクラブ",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3386",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-146",
+      "name": "ギャラクシーテニスクラブ",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3388",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-147",
+      "name": "早稲田大学ファンタスティックテニスクラブ",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3389",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-148",
+      "name": "早稲田大学ホームテニスクラブ",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3390",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-153",
+      "name": "早大テニスクラブ",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3395",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-154",
+      "name": "江戸の会（軟式野球同好会）",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3396",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-155",
+      "name": "グランドスラム",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": null,
+      "description": "早稲田大学2025年度公認サークル（同好会）。公認サークルガイドは準備中です。"
+    },
+    {
+      "code": "C-157",
+      "name": "早稲田大学女子軟式野球部ＷＡＳＥＢＩ",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3399",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-160",
+      "name": "パディ・ゴルフクラブ",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3402",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-161",
+      "name": "ボギーゴルフクラブ",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3403",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-165",
+      "name": "こんぷれっくすラグビーチーム",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3407",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-167",
+      "name": "蹴球同好会",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3409",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-168",
+      "name": "サッカー観戦会",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3410",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-169",
+      "name": "稲穂キッカーズ",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3411",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-170",
+      "name": "リヴェルデーデ",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3412",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-171",
+      "name": "メインストリートF.C",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3413",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-172",
+      "name": "KatZwei",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3414",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-173",
+      "name": "Espiga",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3415",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-174",
+      "name": "ディエンテ早稲田",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3416",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-175",
+      "name": "Tonsoku",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3417",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-176",
+      "name": "アンカー・バレーボールクラブ",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3418",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-177",
+      "name": "ミュンヘンハンドボール同好会",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3419",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-178",
+      "name": "ヤングバドミントン同好会",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3420",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-179",
+      "name": "スカッシュクラブ",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3421",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-180",
+      "name": "スポーツラバーズ",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3422",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-181",
+      "name": "球愛会",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3423",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-185",
+      "name": "かくれんぼ同窓会",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3757",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-187",
+      "name": "空手道糸東会",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3429",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-188",
+      "name": "早稲田大学大道塾",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3430",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-189",
+      "name": "サジテリアス・アーチェリークラブ",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3431",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-191",
+      "name": "防具空手道会",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3433",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-197",
+      "name": "早稲田大学弓道同好会",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3439",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-199",
+      "name": "スキー同好会（W.S.S.)",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3441",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-200",
+      "name": "ツェルマット・スキークラブ",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3442",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-201",
+      "name": "ベーシック・スキークラブ",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3443",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-202",
+      "name": "モンブラン スキークラブ",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3444",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-203",
+      "name": "ベル・スキークラブ",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3445",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-205",
+      "name": "シュプリンゲンスキークラブ",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3447",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-207",
+      "name": "ﾌﾗﾒﾝｺ集団 iVAMOS!",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3449",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-208",
+      "name": "Waseda University Breakerz(W.U.B）",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3450",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-209",
+      "name": "早稲田大学ジャズダンスサークルOasis",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3451",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-210",
+      "name": "Dance Team Brilliant Pinks",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3452",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-212",
+      "name": "早稲田大学ハワイ民族舞踊研究会",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3454",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-213",
+      "name": "ネッシセン",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3455",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-214",
+      "name": "ＳｅｓＳｉｏｎ",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3456",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-216",
+      "name": "TAP-LOVERS (タップラバーズ)",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3458",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-217",
+      "name": "早稲田大学 下駄っぱーず",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3459",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-218",
+      "name": "早稲田大学バレエサークル Ｃiel",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3460",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-220",
+      "name": "早稲田大学ベリーダンスサークル SARAH belly",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3462",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-221",
+      "name": "WASEDA BALLERS",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3463",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-222",
+      "name": "早稲田大学チアダンスチームMYNX",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3464",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-224",
+      "name": "早稲田大学フラッシュモ部",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3466",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-225",
+      "name": "水中クラブ",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3467",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-226",
+      "name": "水泳同好会（早水会）",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3468",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-227",
+      "name": "潜水会",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3776",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-228",
+      "name": "スクーバダイビングチームあんこう",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3470",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-230",
+      "name": "ウィンドサーフィン部",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3472",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-232",
+      "name": "乗馬倶楽部",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3474",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-234",
+      "name": "ライフセービングクラブ（W.L.S.C.)",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3476",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-235",
+      "name": "早稲田大学チアリーダーズFALCONS",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3477",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-238",
+      "name": "早稲田大学ジャグリングサークル～infinitｙ～",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3480",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-241",
+      "name": "早稲田スタンドアップパドル",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3483",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-244",
+      "name": "特撮評議会",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3486",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-245",
+      "name": "Paddy Fielders' Tea Party（実用英語）",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3487",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-246",
+      "name": "中国語学習会",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3488",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-249",
+      "name": "ポケモンだいすきクラブ早稲田支部",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3621",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-251",
+      "name": "早稲田大学クレストテニスクラブ",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3790",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-252",
+      "name": "チャータースクールへの教育支援～ハワイ編～",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3627",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-253",
+      "name": "ラオス学校建設教育支援プロジェクト～スーン～",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3628",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-254",
+      "name": "早稲田台湾留学生会",
+      "category": "その他",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3766",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-255",
+      "name": "早稲田大学装束研究会",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3738",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-256",
+      "name": "早稲田大学弓道サークル本陣",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3637",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-257",
+      "name": "早稲田大学ケルト音楽同好会",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3633",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-258",
+      "name": "早稲田大学躰道会",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3639",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-259",
+      "name": "わせだ吹奏楽同好会（緩）",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3638",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-260",
+      "name": "早稲田大学気仙沼チーム",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3636",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-261",
+      "name": "アトム通貨実行委員会 早稲田・高田馬場支部",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3630",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-263",
+      "name": "ハイソサエティ・オーケストラ",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3643",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-264",
+      "name": "まつだい早稲田じょんのびクラブ",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3644",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-265",
+      "name": "農楽塾",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3645",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-266",
+      "name": "スポーツチャンバラ剣隼会",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3712",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-268",
+      "name": "DOORS-日越交流プロジェクト-",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3714",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-269",
+      "name": "日本コリア未来プロジェクト",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3715",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-270",
+      "name": "F.S.S.テニスクラブ",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3717",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-271",
+      "name": "バンカライズム-万色主義-",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3722",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-272",
+      "name": "ももキュン☆",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3723",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-273",
+      "name": "早稲田大学筝曲研究会",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3729",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-274",
+      "name": "早稲田大学女声合唱団",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3734",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-275",
+      "name": "早稲田大学フットサル部",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3739",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-276",
+      "name": "ロータリーの会",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3740",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-277",
+      "name": "Twinkle",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3741",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-278",
+      "name": "DA早稲田大学ハリー・ポッター研究会",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3742",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-280",
+      "name": "ゆるりと！てつがく！",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3744",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-282",
+      "name": "早稲田大学書道パフォーマンスサークル漣",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3747",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-283",
+      "name": "早稲田マリンヨットクラブ",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3748",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-284",
+      "name": "愁文会",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3749",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-285",
+      "name": "Rethink Fashion Waseda",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3750",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-286",
+      "name": "狩り部",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3756",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-287",
+      "name": "早稲田大学阿波おどりサークル 早稲田連【Team A.W.A】",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3755",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-288",
+      "name": "NEW (Next Entrepreneurs Waseda)",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3753",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-289",
+      "name": "WASElele",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3752",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-290",
+      "name": "早稲田大学レトロ研究会",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3760",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-291",
+      "name": "早稲田大学スノーボード同好会 WSB",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": null,
+      "description": "早稲田大学2025年度公認サークル（同好会）。公認サークルガイドは準備中です。"
+    },
+    {
+      "code": "C-293",
+      "name": "早稲田農業サークルこだま",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3767",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-294",
+      "name": "早稲田大学K-POPカバーダンスサークルParfum",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3792",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-295",
+      "name": "早稲田キャリア研究会",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3772",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-296",
+      "name": "FC GUSTA",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3775",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-297",
+      "name": "早稲田大学いちご大福研究会",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3773",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-298",
+      "name": "早稲田大学占い研究会",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3770",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-299",
+      "name": "早稲田大学三国志研究会",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3774",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-300",
+      "name": "TEDxWasedaU",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3771",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-301",
+      "name": "早稲田大学モーニング娘。研究会",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": null,
+      "description": "早稲田大学2025年度公認サークル（同好会）。公認サークルガイドは準備中です。"
+    },
+    {
+      "code": "C-302",
+      "name": "早稲田大学VTuber研究会",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3781",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-303",
+      "name": "早稲田ドラマ研究会",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3784",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-304",
+      "name": "早稲田大学カバディ同好会",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3785",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-305",
+      "name": "早稲田レゴブロック研究会",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3786",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-306",
+      "name": "カラーガードサークル ワセガシラ",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3787",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-307",
+      "name": "早稲田大学アルティメットサークル青空",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3791",
+      "description": "早稲田大学2025年度公認サークル（同好会）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "C-308",
+      "name": "早稲田大学フランス語研究会amis",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": null,
+      "description": "早稲田大学2025年度公認サークル（同好会）。公認サークルガイドは準備中です。"
+    },
+    {
+      "code": "C-309",
+      "name": "早大ボーカロイドファンクラブ",
+      "category": "体育系",
+      "orgType": "同好会",
+      "guideUrl": null,
+      "description": "早稲田大学2025年度公認サークル（同好会）。公認サークルガイドは準備中です。"
+    },
+    {
+      "code": "C-310",
+      "name": "早稲田大学作問サークル",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": null,
+      "description": "早稲田大学2025年度公認サークル（同好会）。公認サークルガイドは準備中です。"
+    },
+    {
+      "code": "C-311",
+      "name": "早稲田マイケル・ジャクソン研究会",
+      "category": "文化系",
+      "orgType": "同好会",
+      "guideUrl": null,
+      "description": "早稲田大学2025年度公認サークル（同好会）。公認サークルガイドは準備中です。"
+    },
+    {
+      "code": "D-001",
+      "name": "アイセック早稲田大学委員会",
+      "category": "その他",
+      "orgType": "学外NPO",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3724",
+      "description": "早稲田大学2025年度公認サークル（学外NPO）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "D-002",
+      "name": "模擬国連早稲田研究会",
+      "category": "その他",
+      "orgType": "学外NPO",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3491",
+      "description": "早稲田大学2025年度公認サークル（学外NPO）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "D-004",
+      "name": "WHABITAT",
+      "category": "その他",
+      "orgType": "学外NPO",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3493",
+      "description": "早稲田大学2025年度公認サークル（学外NPO）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "E12-01",
+      "name": "蛍法会",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3495",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "E12-02",
+      "name": "創法会",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3496",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "E12-03",
+      "name": "緑法会",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3497",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "E12-04",
+      "name": "公法研究会",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3498",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "E12-05",
+      "name": "民法研究会",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3499",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "E12-06",
+      "name": "刑事法研究会",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3500",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "E12-07",
+      "name": "犯罪学研究会",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3501",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "E12-11",
+      "name": "法社会学研究会",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3505",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "E12-15",
+      "name": "国際法研究会",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3509",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "E12-16",
+      "name": "現代司法研究会",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3510",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "E21-01",
+      "name": "SILS MUSIC CLUB (SMC)",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3606",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "E44-01",
+      "name": "チーム茶道",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3607",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "E47-01",
+      "name": "Welcome-Law School",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3599",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "E47-02",
+      "name": "ジェンダー法研究会",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3735",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "E47-03",
+      "name": "Law&Practice",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3601",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "E47-07",
+      "name": "法学教室 Ｓｔｒｅｅｔ Ｌａｗ",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3605",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "E47-08",
+      "name": "WLSキャリアキャンバス",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": null,
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。公認サークルガイドは準備中です。"
+    },
+    {
+      "code": "EN-001",
+      "name": "早稲田大学理工漕艇部",
+      "category": "体育系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3514",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "EN-002",
+      "name": "理工ｱﾒﾘｶﾝﾌｯﾄﾎﾞｰﾙ部ﾊﾞｯｶｽ",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3515",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "EN-003",
+      "name": "早稲田大学理工英語会",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3516",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "EN-005",
+      "name": "早稲田大学理工ラグビー部",
+      "category": "体育系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3518",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "EN-008",
+      "name": "早稲田大学理工サッカー部",
+      "category": "体育系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3521",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "EN-009",
+      "name": "早稲田大学理工バレーボール部",
+      "category": "体育系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3522",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "EN-011",
+      "name": "早稲田大学理工柔道部",
+      "category": "体育系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3524",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "EN-012",
+      "name": "早稲田理工軟式野球部",
+      "category": "体育系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3525",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "EN-013",
+      "name": "Swing & Jazz Club",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3526",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "EN-014",
+      "name": "早稲田大学アンサンブルギタール",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3527",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "EN-015",
+      "name": "ロッククライミング",
+      "category": "体育系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3528",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "EN-016",
+      "name": "早稲田大学宇宙航空研究会",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3529",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "EN-017",
+      "name": "理工硬式野球部",
+      "category": "体育系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3530",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "EN-018",
+      "name": "早稲田大学リコシャ写真部",
+      "category": "体育系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3531",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "EN-019",
+      "name": "理工硬式庭球部",
+      "category": "体育系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3532",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "EN-020",
+      "name": "KONA HAWAIIANS",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3533",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "EN-021",
+      "name": "早稲田山岳自転車倶楽部WFR（理工山岳自転車部）",
+      "category": "体育系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3534",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "EN-023",
+      "name": "早稲田吹奏楽団",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3536",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "EN-024",
+      "name": "Trial and Error Association（T.E.A.）",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3537",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "EN-025",
+      "name": "早大理工囲将会",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3538",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "EN-027",
+      "name": "早稲田大学マイクロマウスクラブ",
+      "category": "体育系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3540",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "EN-028",
+      "name": "早稲田社会環境工学研究会",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3541",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "EN-030",
+      "name": "早稲田うたおう会",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3543",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "EN-031",
+      "name": "Perspective研究会",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3544",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "EN-032",
+      "name": "早稲田大学心身統一合氣道会",
+      "category": "体育系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3545",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "EN-034",
+      "name": "早稲田コンピュータエンタテインメント",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3547",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "EN-035",
+      "name": "Waseda Formula Project",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3624",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "EN-037",
+      "name": "Laissez-Faire T.C.",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3632",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "EN-038",
+      "name": "理工展連絡会",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3716",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "EN-039",
+      "name": "早大防災教育支援会 WASEND",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3725",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "EN-040",
+      "name": "iGEM - Waseda",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3736",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "EN-041",
+      "name": "理工系学術サークルWathematica",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3765",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "ET-002",
+      "name": "早稲田大学ライフセービングクラブ（W.L.S.C）",
+      "category": "体育系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3549",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "ET-004",
+      "name": "バドミントン同好会Ｊ－Ｂｉｒｄｓ",
+      "category": "体育系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3551",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "ET-005",
+      "name": "バスケットボールサークルＪＡＷＳ",
+      "category": "体育系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3552",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "ET-006",
+      "name": "＠アットマーク",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3553",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "ET-007",
+      "name": "人間科学部サッカー部 ヒューマンＦ．Ｃ．",
+      "category": "体育系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3554",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "ET-008",
+      "name": "臨床心理学研究会",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3555",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "ET-009",
+      "name": "早稲田大学混声合唱団 所沢支部",
+      "category": "体育系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3556",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "ET-011",
+      "name": "早大スポーツ合気道同志会",
+      "category": "体育系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3558",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "ET-012",
+      "name": "陸上競技同好会 所沢支部",
+      "category": "体育系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3559",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "ET-014",
+      "name": "ボランティアサークルman-vo.",
+      "category": "その他",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3768",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "ET-015",
+      "name": "トランポリン同好会（ET-015）",
+      "category": "体育系",
+      "orgType": "学術院承認",
+      "guideUrl": null,
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。公認サークルガイドは準備中です。"
+    },
+    {
+      "code": "ET-017",
+      "name": "Waseda Athletic Training Society （WATS）",
+      "category": "体育系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3564",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "ET-019",
+      "name": "CROSS☆ROAD",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3566",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "ET-020",
+      "name": "t:M(チーム）",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3567",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "ET-023",
+      "name": "e-learning コミュニケーション研究会(ELC)",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3570",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "ET-024",
+      "name": "ずるずるらくだ",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3571",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "ET-026",
+      "name": "早稲田大学交響楽団（ワセオケ）所沢支部",
+      "category": "体育系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3573",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "ET-028",
+      "name": "創作サークル GIFT",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3575",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "ET-033",
+      "name": "tokopan",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3580",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "ET-036",
+      "name": "早大M+",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3583",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "ET-038",
+      "name": "WILD359ers(ワイルドスリーフィフティーナイナーズ)",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3585",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "ET-039",
+      "name": "PETIT ROYAL FC(プチロワイヤル エフシー)",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3586",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "ET-041",
+      "name": "aka Wa.Se.Da.",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3588",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "ET-043",
+      "name": "早稲田大学中央アジア研究会",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3590",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "ET-045",
+      "name": "演劇集団ところで",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3592",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "ET-046",
+      "name": "早稲田大学チアダンスチームMYNX所沢支部",
+      "category": "体育系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3593",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "ET-047",
+      "name": "RayBack",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3594",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "ET-051",
+      "name": "FC. TEMPESTA",
+      "category": "体育系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3721",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "ET-054",
+      "name": "所沢コンピュータ勉強会 418",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": "https://www.waseda.jp/inst/weekly/circleguide/detail/?id=3779",
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。詳細は公認サークルガイドをご覧ください。"
+    },
+    {
+      "code": "ET-055",
+      "name": "所祭運営委員会",
+      "category": "文化系",
+      "orgType": "学術院承認",
+      "guideUrl": null,
+      "description": "早稲田大学2025年度公認サークル（学術院承認）。公認サークルガイドは準備中です。"
+    }
+  ]
+}

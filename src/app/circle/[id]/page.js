@@ -1,5 +1,7 @@
 import Link from "next/link";
+import CircleEditForm from "../../../components/CircleEditForm";
 import ReviewForm from "../../../components/ReviewForm";
+import ReviewList from "../../../components/ReviewList";
 import StarRating from "../../../components/StarRating";
 import { auth } from "../../../auth";
 import { getCircleById } from "../../../lib/db";
@@ -33,6 +35,13 @@ export default async function CircleDetailPage({ params }) {
         <StarRating rating={circle.rating} />
       </header>
 
+      <CircleEditForm
+        circleId={circleId}
+        category={circle.category}
+        description={circle.description}
+        isLoggedIn={!!session?.user}
+      />
+
       <ReviewForm
         circleId={circleId}
         isLoggedIn={!!session?.user}
@@ -43,25 +52,12 @@ export default async function CircleDetailPage({ params }) {
         }
       />
 
-      <section>
-        <h2 className="section-title">口コミ一覧（{circle.reviews.length}件）</h2>
-        {circle.reviews.length === 0 ? (
-          <p className="empty-message">まだ口コミがありません。</p>
-        ) : (
-          <ul className="review-list">
-            {circle.reviews.map((review) => (
-              <li key={review.id} className="review-card">
-                <div className="review-meta">
-                  <StarRating rating={review.rating} />
-                  <span className="review-date">{review.date}</span>
-                </div>
-                <p className="review-author">{review.authorName}</p>
-                <p className="review-text">{review.text}</p>
-              </li>
-            ))}
-          </ul>
-        )}
-      </section>
+      <ReviewList
+        reviews={circle.reviews}
+        rating={circle.rating}
+        reviewCount={circle.reviewCount}
+        breakdown={circle.ratingBreakdown}
+      />
     </main>
   );
 }

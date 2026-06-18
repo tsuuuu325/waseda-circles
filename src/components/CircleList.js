@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { useMemo, useState } from "react";
+import { matchesStarFilter } from "../lib/ratings";
 import StarRating from "./StarRating";
 
 const CATEGORIES = [
@@ -11,9 +12,20 @@ const CATEGORIES = [
   { value: "その他", label: "その他" },
 ];
 
+const STAR_FILTERS = [
+  { value: "all", label: "すべて" },
+  { value: "5", label: "★5" },
+  { value: "4", label: "★4" },
+  { value: "3", label: "★3" },
+  { value: "2", label: "★2" },
+  { value: "1", label: "★1" },
+  { value: "none", label: "未評価" },
+];
+
 export default function CircleList({ circles }) {
   const [search, setSearch] = useState("");
   const [category, setCategory] = useState("all");
+  const [starFilter, setStarFilter] = useState("all");
 
   const filteredCircles = useMemo(() => {
     const query = search.trim().toLowerCase();
@@ -24,10 +36,11 @@ export default function CircleList({ circles }) {
         query === "" ||
         circle.name.toLowerCase().includes(query) ||
         circle.description.toLowerCase().includes(query);
+      const matchesStar = matchesStarFilter(circle.rating, circle.reviewCount, starFilter);
 
-      return matchesCategory && matchesSearch;
+      return matchesCategory && matchesSearch && matchesStar;
     });
-  }, [circles, search, category]);
+  }, [circles, search, category, starFilter]);
 
   return (
     <>
@@ -45,17 +58,36 @@ export default function CircleList({ circles }) {
         />
       </div>
 
-      <div className="category-tabs">
-        {CATEGORIES.map((item) => (
-          <button
-            key={item.value}
-            type="button"
-            className={`category-tab ${category === item.value ? "active" : ""}`}
-            onClick={() => setCategory(item.value)}
-          >
-            {item.label}
-          </button>
-        ))}
+      <div className="filter-group">
+        <p className="filter-group-label">カテゴリ</p>
+        <div className="category-tabs">
+          {CATEGORIES.map((item) => (
+            <button
+              key={item.value}
+              type="button"
+              className={`category-tab ${category === item.value ? "active" : ""}`}
+              onClick={() => setCategory(item.value)}
+            >
+              {item.label}
+            </button>
+          ))}
+        </div>
+      </div>
+
+      <div className="filter-group">
+        <p className="filter-group-label">評価で絞り込み</p>
+        <div className="category-tabs">
+          {STAR_FILTERS.map((item) => (
+            <button
+              key={item.value}
+              type="button"
+              className={`category-tab star-tab ${starFilter === item.value ? "active" : ""}`}
+              onClick={() => setStarFilter(item.value)}
+            >
+              {item.label}
+            </button>
+          ))}
+        </div>
       </div>
 
       <p className="result-count">{filteredCircles.length}件のサークル</p>
